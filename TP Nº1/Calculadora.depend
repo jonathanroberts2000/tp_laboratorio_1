@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554169531 source:c:\users\jonathan roberts\desktop\calculadora\libreriafunciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554342921 source:c:\users\jonathan roberts\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreriaFunciones.h"
+
+1554215697 c:\users\jonathan roberts\desktop\calculadora\libreriafunciones.h
+
